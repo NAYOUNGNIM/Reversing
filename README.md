@@ -3,3 +3,9 @@ It's my First Commit
 - fix-B
 - feature-C
 - feature-D
+
+#Python code
+````python
+def hello():
+	print 'Hello World'
+````
