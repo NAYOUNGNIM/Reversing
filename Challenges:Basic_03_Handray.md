@@ -1,7 +1,8 @@
 #This is pseudo-code for [Codeengn](http://codeengn.com/challenges/basic/01, "Basic 01")
-##It's hand-ray for Basic 01
-##I don't know Windows API very well so I may have error
-#####If there are error in my pseudo-code please send email to me
+
+It's hand-ray for Basic 01
+I don't know Windows API very well so I may have error
+If there are error in my pseudo-code please send email to me
 
 ---
 
