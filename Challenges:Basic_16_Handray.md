@@ -1,6 +1,6 @@
-#This is pseudo-code for [Codeengn](http://codeengn.com/challenges/basic/15 "Basic 15")
+#This is pseudo-code for [Codeengn](http://codeengn.com/challenges/basic/16 "Basic 16")
 
-It's hand-ray for Basic 15
+It's hand-ray for Basic 16
 I don't know Windows API very well so I may have error
 If there are error in my pseudo-code please send email to me
 This program is made with c++ instead of c
